@@ -3,19 +3,23 @@
   "path": "/",
   "sections": [
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "website/sections/Seo/Seo.tsx",
+        "type": "website",
+        "title": "teste",
+        "titleTemplate": "teste",
+        "description": "teste",
+        "descriptionTemplate": "teste"
+      }
+    },
+    {
       "__resolveType": "site/sections/ItWorks.tsx",
       "name": "<p>netlinks</p>",
       "count": 1
     },
     {
       "__resolveType": "Footer"
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "website/sections/Seo/Seo.tsx",
-        "type": "website"
-      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
