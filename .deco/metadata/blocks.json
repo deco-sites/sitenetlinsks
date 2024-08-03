@@ -45,5 +45,9 @@
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
   },
-  "/.deco/blocks/deco-records.json": null
+  "/.deco/blocks/deco-records.json": null,
+  "/.deco/blocks/deco-blog.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/blog.ts"
+  }
 }
